@@ -1,8 +1,3 @@
----
-layout: cv
-title: Curriculum Vitae
----
-
 # **Juan Ignacio** Barozzi Behr
 ## **Información personal**
 **DNI:** 12345678  
