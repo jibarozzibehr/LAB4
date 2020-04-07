@@ -1,7 +1,7 @@
 # **Juan Ignacio** Barozzi Behr
 ## **Información personal**
 **DNI:** 12345678  
-**Teléfono:** 12345678900  
+**Teléfono:** 123456789000  
 **Sitio web:** www.jibarozzibehr.com  
 **Email:** jibarozzibehr@gmail.com  
 **Dirección:** 2066 Crist Dr, Los Altos, CA 94024 EE. UU. 
