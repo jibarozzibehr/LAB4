@@ -1,2 +1,2 @@
 # Pull Request
-Una ***pull request*** es una solicitud que le hacemos al dueño de un repositorio para que incorpore los últimos *commits* que hicimos en el mismo. :)
+Una ***pull request*** es una solicitud que le hacemos al dueño/administrador de un repositorio para que incorpore los últimos *commits* que hicimos en el mismo. Si ve que no hay ningún error y los datos no se *pisan*, lo acepta. Sino no. :)
