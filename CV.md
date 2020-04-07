@@ -4,7 +4,7 @@
 **Teléfono:** 123456789001234  
 **Sitio web:** www.jibarozzibehr.com  
 **Email:** jibarozzibehr@gmail.com  
-**Dirección:** 2066 Crist Dr, Los Altos, CA 94024 EE. UU. 
+**Dirección:** 2066 Crist Dr, Los Altos, CA 94024, EE. UU. 
 
 ---
 ## **Experiencia** 
