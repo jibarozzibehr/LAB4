@@ -35,7 +35,7 @@ Equipo de iOS y macOS.
 -   JavaScript
 -   Swift
 
-### **Softwares, Frameworks y Plataformas**
+### **Software, Frameworks y Plataformas**
 -   React Native
 -   Qt
 -   Firebase
